@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\66ca613f41d8f187389114f496ff72c1a20f8dca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\b7a570916bd105af12d0582b95e861802364739c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\3374c5a889e5b0b7c42c0be5e6c74b94931785be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\f465aeeddce7cd1b7ad218c718d542307915d899\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\ab14873a4f9791dbcd41008271c4ae42c7ebcd1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\c3cba7877bd5cab69500c706452586c6568a84b5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\6f285b50d1513f32791fe94ddc63f01e48880df3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\338b25471d66a1e3f0f4b52f830b76b2a0ab78c0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\a4d0ed9231b59bb5ad6db3f823b04e612af8395d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Isiah Libor\.android\build-cache\585b2800372d68b5cc50e1efc61f9549b87927bd\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.dannielexample.libor.danniel.MainActivity
+ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.dannielexample.libor.danniel.Main2Activity
+ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml:19:19-48
+uses-sdk
+INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\66ca613f41d8f187389114f496ff72c1a20f8dca\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\b7a570916bd105af12d0582b95e861802364739c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\3374c5a889e5b0b7c42c0be5e6c74b94931785be\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\f465aeeddce7cd1b7ad218c718d542307915d899\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\ab14873a4f9791dbcd41008271c4ae42c7ebcd1c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\c3cba7877bd5cab69500c706452586c6568a84b5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\6f285b50d1513f32791fe94ddc63f01e48880df3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\338b25471d66a1e3f0f4b52f830b76b2a0ab78c0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\a4d0ed9231b59bb5ad6db3f823b04e612af8395d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Isiah Libor\.android\build-cache\585b2800372d68b5cc50e1efc61f9549b87927bd\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\66ca613f41d8f187389114f496ff72c1a20f8dca\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Isiah Libor\Documents\android files\danniel\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\66ca613f41d8f187389114f496ff72c1a20f8dca\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\b7a570916bd105af12d0582b95e861802364739c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\3374c5a889e5b0b7c42c0be5e6c74b94931785be\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\f465aeeddce7cd1b7ad218c718d542307915d899\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\ab14873a4f9791dbcd41008271c4ae42c7ebcd1c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\c3cba7877bd5cab69500c706452586c6568a84b5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\6f285b50d1513f32791fe94ddc63f01e48880df3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\338b25471d66a1e3f0f4b52f830b76b2a0ab78c0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\a4d0ed9231b59bb5ad6db3f823b04e612af8395d\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\66ca613f41d8f187389114f496ff72c1a20f8dca\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Isiah Libor\.android\build-cache\66ca613f41d8f187389114f496ff72c1a20f8dca\output\AndroidManifest.xml:26:9-47

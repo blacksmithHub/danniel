@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Isiah Libor\\.android\\build-cache\\66ca613f41d8f187389114f496ff72c1a20f8dca\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "D:\\Users\\Isiah Libor\\Documents\\android files\\danniel\\app\\src\\main\\res\\anim\\alpha.xml"
+    }
+]
